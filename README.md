@@ -1,8 +1,8 @@
 # Atividades-WEB-I---HTML
 
 
-Atividade1: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade1.html
-Atividade2: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade2.html
+#Atividade1: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade1.html
+#Atividade2: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade2.html
 Atividade3: 
 Atividade4:
 Atividade5:
