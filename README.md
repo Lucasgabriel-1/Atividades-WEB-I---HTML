@@ -10,7 +10,7 @@
 # Atividade7: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade7.html
 # Atividade8: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade8.html
 # Atividade9: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade9.html
-# Atividade10:
+# Atividade10: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade10.html
 # Atividade11
 # Atividade12:
 # Atividade13:
