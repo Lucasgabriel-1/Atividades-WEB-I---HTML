@@ -5,7 +5,7 @@
 # Atividade2: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade2.html
 # Atividade3: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade3.html
 # Atividade4: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade4.html
-# Atividade5: 
+# Atividade5: https://github.com/Lucasgabriel-1/Atividades-WEB-I---HTML/blob/main/Atividade5.html
 # Atividade6:
 # Atividade7:
 # Atividade8:
